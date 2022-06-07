@@ -15,7 +15,16 @@
         </button>
       </div>
       <div class="modal-body">
-        ...
+      <div class="form-group">
+                        <label for="Email">Email</label>
+                        <input type="email" class="form-control"  placeholder="Enter Email" id="Emailid" name="Emailname">
+                    </div>
+                    <br>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Password</label>
+                        <input type="password" class="form-control"  placeholder="Enter password " id="signupPassword" name="signupPassword">
+                    </div>
+                    <br>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

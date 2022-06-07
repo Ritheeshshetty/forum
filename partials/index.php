@@ -9,13 +9,14 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css
     " integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
 
   <title>Welcome To Home Page</title>
 </head>
 
 <body>
   <h1>
-    <center>Discussion Forum</center>
+    <center><b>Discussion Forum </b></center>
   </h1>
   <?php include '_header.php'; ?> 
 
@@ -52,6 +53,7 @@
     <a href="#" class="btn btn-primary">Explore</a>
   </div>
 </div>
+
  
 </div>
  
